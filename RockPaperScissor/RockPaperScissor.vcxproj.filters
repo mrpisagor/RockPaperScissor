@@ -23,13 +23,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="attacks.h">
+    <ClInclude Include="game\attacks.h">
       <Filter>Header Files\game</Filter>
     </ClInclude>
-    <ClInclude Include="player.h">
+    <ClInclude Include="game\game.h">
       <Filter>Header Files\game</Filter>
     </ClInclude>
-    <ClInclude Include="game.h">
+    <ClInclude Include="game\player.h">
       <Filter>Header Files\game</Filter>
     </ClInclude>
   </ItemGroup>
